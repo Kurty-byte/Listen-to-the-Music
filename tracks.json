@@ -1,0 +1,164 @@
+[
+    {
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "album": "8 Mile Soundtrack",
+        "duration": "05:26"
+    },
+    {
+        "title": "Not Afraid",
+        "artist": "Eminem",
+        "album": "Recovery",
+        "duration": "04:08"
+    },
+    {
+        "title": "Love The Way You Lie",
+        "artist": [
+            "Eminem",
+            "Rihanna"
+        ],
+        "album": "Recovery",
+        "duration": "04:23"
+    },
+    {
+        "title": "Stan",
+        "artist": [
+            "Eminem",
+            "Dido"
+        ],
+        "album": "The Marshall Mathers LP",
+        "duration": "06:44"
+    },
+    {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP",
+        "duration": "04:44"
+    },
+    {
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "duration": "05:57"
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "duration": "04:54"
+    },
+    {
+        "title": "Beat It",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "duration": "04:18"
+    },
+    {
+        "title": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "album": "Bad",
+        "duration": "04:17"
+    },
+    {
+        "title": "Black or White",
+        "artist": "Michael Jackson",
+        "album": "Dangerous",
+        "duration": "04:16"
+    },
+    {
+        "title": "Man in the Mirror",
+        "artist": "Michael Jackson",
+        "album": "Bad",
+        "duration": "05:19"
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "duration": "05:01"
+    },
+    {
+        "title": "Come As You Are",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "duration": "03:39"
+    },
+    {
+        "title": "Lithium",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "duration": "04:17"
+    },
+    {
+        "title": "In Bloom",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "duration": "04:14"
+    },
+    {
+        "title": "Heart-Shaped Box",
+        "artist": "Nirvana",
+        "album": "In Utero",
+        "duration": "04:41"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "duration": "08:02"
+    },
+    {
+        "title": "Whole Lotta Love",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin II",
+        "duration": "05:34"
+    },
+    {
+        "title": "Kashmir",
+        "artist": "Led Zeppelin",
+        "album": "Physical Graffiti",
+        "duration": "08:37"
+    },
+    {
+        "title": "Immigrant Song",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin III",
+        "duration": "02:26"
+    },
+    {
+        "title": "Black Dog",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "duration": "04:54"
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "duration": "05:56"
+    },
+    {
+        "title": "Welcome to the Jungle",
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "duration": "04:34"
+    },
+    {
+        "title": "Paradise City",
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "duration": "06:46"
+    },
+    {
+        "title": "November Rain",
+        "artist": "Guns N' Roses",
+        "album": "Use Your Illusion I",
+        "duration": "08:57"
+    },
+    {
+        "title": "Don't Cry",
+        "artist": "Guns N' Roses",
+        "album": "Use Your Illusion I",
+        "duration": "04:45"
+    }
+]

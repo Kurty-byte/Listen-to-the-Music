@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Eminem Classics",
+        "tracks": [
+            {
+                "title": "Lose Yourself",
+                "artist": "Eminem",
+                "album": "8 Mile Soundtrack",
+                "duration": "05:26"
+            },
+            {
+                "title": "Not Afraid",
+                "artist": "Eminem",
+                "album": "Recovery",
+                "duration": "04:08"
+            },
+            {
+                "title": "Rap God",
+                "artist": "Eminem",
+                "album": "The Marshall Mathers LP 2",
+                "duration": "06:04"
+            }
+        ]
+    },
+    {
+        "name": "MJ Hits",
+        "tracks": [
+            {
+                "title": "Billie Jean",
+                "artist": "Michael Jackson",
+                "album": "Thriller",
+                "duration": "04:54"
+            },
+            {
+                "title": "Beat It",
+                "artist": "Michael Jackson",
+                "album": "Thriller",
+                "duration": "04:18"
+            },
+            {
+                "title": "Smooth Criminal",
+                "artist": "Michael Jackson",
+                "album": "Bad",
+                "duration": "04:17"
+            }
+        ]
+    },
+    {
+        "name": "Rock Legends",
+        "tracks": [
+            {
+                "title": "Smells Like Teen Spirit",
+                "artist": "Nirvana",
+                "album": "Nevermind",
+                "duration": "05:01"
+            },
+            {
+                "title": "Stairway to Heaven",
+                "artist": "Led Zeppelin",
+                "album": "Led Zeppelin IV",
+                "duration": "08:02"
+            },
+            {
+                "title": "Sweet Child O' Mine",
+                "artist": [
+                    "Guns N' Roses"
+                ],
+                "album": "Appetite for Destruction",
+                "duration": "05:56"
+            }
+        ]
+    }
+]

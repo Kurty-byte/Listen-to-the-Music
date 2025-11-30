@@ -1,4 +1,4 @@
-data/
+storage/
 *.pyc
 __pycache__/
 ListenToTheMusic Project Requirements/
